@@ -1,0 +1,16 @@
+C:\Users\Khiana\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\WordGuessApplication.frmGuessWord.resources
+C:\Users\Khiana\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\WordGuessApplication.csproj.GenerateResource.cache
+C:\Users\Khiana\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\WordGuessApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khiana\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\WordGuessApplication.AssemblyInfoInputs.cache
+C:\Users\Khiana\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\WordGuessApplication.AssemblyInfo.cs
+C:\Users\Khiana\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\WordGuessApplication.csproj.CoreCompileInputs.cache
+C:\Users\Khiana\source\repos\WordGuessApplication\WordGuessApplication\bin\Debug\net8.0-windows\WordGuessApplication.exe
+C:\Users\Khiana\source\repos\WordGuessApplication\WordGuessApplication\bin\Debug\net8.0-windows\WordGuessApplication.deps.json
+C:\Users\Khiana\source\repos\WordGuessApplication\WordGuessApplication\bin\Debug\net8.0-windows\WordGuessApplication.runtimeconfig.json
+C:\Users\Khiana\source\repos\WordGuessApplication\WordGuessApplication\bin\Debug\net8.0-windows\WordGuessApplication.dll
+C:\Users\Khiana\source\repos\WordGuessApplication\WordGuessApplication\bin\Debug\net8.0-windows\WordGuessApplication.pdb
+C:\Users\Khiana\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\WordGuessApplication.dll
+C:\Users\Khiana\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\refint\WordGuessApplication.dll
+C:\Users\Khiana\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\WordGuessApplication.pdb
+C:\Users\Khiana\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\WordGuessApplication.genruntimeconfig.cache
+C:\Users\Khiana\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\net8.0-windows\ref\WordGuessApplication.dll
